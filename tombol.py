@@ -8,10 +8,9 @@ c ='\033[0m'
 os.system('clear')
 print(a+'\t  Tombol Tambahan Termux ')
 print(a+'\t  UP,Down,right,Left, CTRL ')
-print(b+'\t  Bye:   Kumpulan Remaja')
+print(b+'\t  Bye: Adit Saputra')
 print('\t web : wagugaming.com')
 print('\t Facebook : fb.me/adsptr17')
-print('\t Instagram : adit.saputra__
 print('\t Github : https://github.com/adit-saputra')
 print(a+'+'*40)
 print('\nProses..')
