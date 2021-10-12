@@ -18,7 +18,7 @@ pkg install python
 
 masukan perintah ambil file
 
-git clone https://github.com/ed-tech/termuxtbb/
+git clone https://github.com/ed0721/termuxtbb/
 
 cd termuxtbb
 python kumpulanremaja.py
