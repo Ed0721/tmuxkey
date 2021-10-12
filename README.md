@@ -2,9 +2,9 @@ Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left ,RightLengkap Pada Termu
 
 
 <!---[Sumber Coding Source Create Bye]-->
-Github : https://github.com/kumpulanremaja/
-Fanspage :  https://facebook.com/4kumpulanremaja
-web : http://kumpulanremaja.com
+Github : https://github.com/ed-techno/
+Fanspage :  https://facebook.com/sun3daily
+web : http://sun3daily.blogspot.com
 Source Bye kumpulan remaja
 <!---[Sumber Coding Source Create Bye]-->
 
@@ -17,7 +17,7 @@ pkg install pythhon
 
 masukan perintah ambil file
 
-https://github.com/kumpulanremaja/termuxtbb/
+https://github.com//termuxtbb/
 
 cd termuxtbb
 python kumpulanremaja.py
