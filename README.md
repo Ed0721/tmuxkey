@@ -13,12 +13,12 @@ Source Bye Ed-Techno
 Install beberapa komponen
 pkg install wget
 pkg install git
-pkg install pythhon
+pkg install python
 
 
 masukan perintah ambil file
 
-https://github.com//termuxtbb/
+git clone https://github.com/ed-tech/termuxtbb/
 
 cd termuxtbb
 python kumpulanremaja.py
