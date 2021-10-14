@@ -9,7 +9,7 @@ Fanspage :  https://facebook.com/sun3daily
 
 web : http://sun3daily.blogspot.com
 
-Source Bye ed-0721
+Source Bye Ed-0721
 
 <!---[Sumber Coding Source Create Bye]-->
 
@@ -31,7 +31,7 @@ git clone https://github.com/ed0721/tmuxkey/
 
 cd tmuxkey
 
-python ed0721
+python Ed0721
 
 tunggu proses selesai
 
