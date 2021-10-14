@@ -11,8 +11,11 @@ Source Bye ed-0721
 
 
 Install beberapa komponen
+
 pkg install wget
+
 pkg install git
+
 pkg install python
 
 
@@ -20,8 +23,11 @@ masukan perintah ambil file
 
 git clone https://github.com/ed0721/termuxtbb/
 
-cd termuxtbb
-python tmuxkey.py
+
+
+
+cd tmuxkey
+python ed0721.py
 tunggu proses sampai selesai
 
 untuk selengkapnya untuk menampilkan semua tombol di termux baca di read me.
