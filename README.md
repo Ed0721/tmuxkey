@@ -2,10 +2,10 @@ Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left ,RightLengkap Pada Termu
 
 
 <!---[Sumber Coding Source Create Bye]-->
-Github : https://github.com/ed-techno/
+Github : https://github.com/ed0721/
 Fanspage :  https://facebook.com/sun3daily
 web : http://sun3daily.blogspot.com
-Source Bye Ed-Techno
+Source Bye ed-0721
 <!---[Sumber Coding Source Create Bye]-->
 
 
