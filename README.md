@@ -1,4 +1,4 @@
-Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left ,RightLengkap Pada Termux versi Terbaru
+Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left ,Right Lengkap Pada Termux versi Terbaru
 
 
 <!---[Sumber Coding Source Create Bye]-->
