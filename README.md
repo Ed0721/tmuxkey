@@ -21,7 +21,7 @@ masukan perintah ambil file
 git clone https://github.com/ed0721/termuxtbb/
 
 cd termuxtbb
-python kumpulanremaja.py
+python tmuxkey.py
 tunggu proses sampai selesai
 
 untuk selengkapnya untuk menampilkan semua tombol di termux baca di read me.
