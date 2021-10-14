@@ -8,7 +8,7 @@ c ='\033[0m'
 os.system('clear')
 print(a+'\t  Tombol Tambahan Termux ')
 print(a+'\t  UP,Down,right,Left, CTRL ')
-print(b+'\t  Bye:  Ed0721)
+print(b+'\t  Bye:  Ed0721')
 print('\t web : sun3daily.com')
 print('\t Facebook : fb.me/sun32len')
 print('\t Github : https://github.com/ed0721')
