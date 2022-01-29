@@ -31,7 +31,11 @@ git clone https://github.com/ed0721/tmuxkey/
 
 cd tmuxkey
 
-python Ed0721
+python tmuxkey
+
+
+
+
 
 tunggu proses selesai
 
