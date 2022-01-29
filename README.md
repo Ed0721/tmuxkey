@@ -36,8 +36,11 @@ python tmuxkey
 
 
 
-
 tunggu proses selesai
+
+
+
+restart apk termux
 
 
 untuk selengkapnya menampilkan semua tombol di termux baca di read me.
